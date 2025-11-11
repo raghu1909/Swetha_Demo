@@ -1,4 +1,2 @@
 # Swetha_Demo
 Training
-
-
